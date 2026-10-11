@@ -4023,7 +4023,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 167.64 57.658 90)
 			(hide yes)
 			(show_name no)
@@ -4116,7 +4116,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 106.172 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -4161,10 +4161,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b0")
+			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b1")
 		)
 		(pin "2"
-			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c54")
+			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c55")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -4209,7 +4209,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 90.932 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -4302,7 +4302,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 117.602 146.05 90)
 			(hide yes)
 			(show_name no)
@@ -4347,10 +4347,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b0")
+			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b2")
 		)
 		(pin "2"
-			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c54")
+			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c56")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -4392,7 +4392,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 168.91 70.1548 0)
 			(hide yes)
 			(show_name no)
@@ -4563,7 +4563,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 101.092 54.61 90)
 			(hide yes)
 			(show_name no)
@@ -4608,10 +4608,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b0")
+			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b3")
 		)
 		(pin "2"
-			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c54")
+			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c57")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -4656,7 +4656,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 251.1552 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -4701,10 +4701,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05b")
+			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05c")
 		)
 		(pin "1"
-			(uuid "09fc5bf3-d169-4544-8495-7e188277e87c")
+			(uuid "09fc5bf3-d169-4544-8495-7e188277e87d")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -4825,7 +4825,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 180.34 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -5073,7 +5073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical"
 			(at 264.16 42.926 90)
 			(hide yes)
 			(show_name no)
@@ -5266,7 +5266,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm"
 			(at 22.86 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -5359,7 +5359,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 234.95 132.08 0)
 			(hide yes)
 			(show_name no)
@@ -5432,7 +5432,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 168.91 62.5348 0)
 			(hide yes)
 			(show_name no)
@@ -5477,10 +5477,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05b")
+			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05d")
 		)
 		(pin "1"
-			(uuid "09fc5bf3-d169-4544-8495-7e188277e87c")
+			(uuid "09fc5bf3-d169-4544-8495-7e188277e87e")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -5603,7 +5603,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 234.95 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -5679,7 +5679,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 241.3 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -5724,10 +5724,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2b3cb52f-660e-45e5-98b0-cd2ab7e1eda2")
+			(uuid "2b3cb52f-660e-45e5-98b0-cd2ab7e1eda3")
 		)
 		(pin "2"
-			(uuid "a306fcb9-5042-47d5-b8bc-7d9ccbeccab3")
+			(uuid "a306fcb9-5042-47d5-b8bc-7d9ccbeccab4")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -5850,7 +5850,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 117.8052 58.42 0)
 			(hide yes)
 			(show_name no)
@@ -5895,10 +5895,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05b")
+			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05e")
 		)
 		(pin "1"
-			(uuid "09fc5bf3-d169-4544-8495-7e188277e87c")
+			(uuid "09fc5bf3-d169-4544-8495-7e188277e87f")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -6021,7 +6021,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm"
 			(at 176.53 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -6114,7 +6114,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
 			(at 230.8352 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -6159,10 +6159,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05b")
+			(uuid "30bf77d9-7b67-4d49-8f07-498321e2e05f")
 		)
 		(pin "1"
-			(uuid "09fc5bf3-d169-4544-8495-7e188277e87c")
+			(uuid "09fc5bf3-d169-4544-8495-7e188277e880")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -6206,7 +6206,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 40.64 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -6304,7 +6304,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 181.61 88.138 90)
 			(hide yes)
 			(show_name no)
@@ -6395,7 +6395,7 @@
 				)
 			)
 		)
-		(property "Footprint" "DS1337S_:SOIC127P600X175-8N"
+		(property "Footprint" "Footprints:SOIC127P600X175-8N"
 			(at 62.23 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -6749,7 +6749,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 234.95 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -6824,7 +6824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_SO:SOIC-8_5.3x5.3mm_P1.27mm"
 			(at 82.55 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -6858,28 +6858,28 @@
 			)
 		)
 		(pin "7"
-			(uuid "027359eb-4edd-4ed8-9e7b-e20d7abf506d")
+			(uuid "027359eb-4edd-4ed8-9e7b-e20d7abf506e")
 		)
 		(pin "6"
-			(uuid "0f03ed98-d1d3-4a46-9653-4fc596811faf")
+			(uuid "0f03ed98-d1d3-4a46-9653-4fc596811fb0")
 		)
 		(pin "8"
-			(uuid "0d519d9a-3576-455c-9d72-a03c19d0a7f8")
+			(uuid "0d519d9a-3576-455c-9d72-a03c19d0a7f9")
 		)
 		(pin "4"
-			(uuid "b4d8311f-fb77-42f7-a9c3-f6ed3df3a7bf")
+			(uuid "b4d8311f-fb77-42f7-a9c3-f6ed3df3a7c0")
 		)
 		(pin "2"
-			(uuid "c2e56de5-ead5-4246-8ad4-150ef1a1cc02")
+			(uuid "c2e56de5-ead5-4246-8ad4-150ef1a1cc03")
 		)
 		(pin "3"
-			(uuid "fba53632-3e36-4978-b6cf-95b0e5f7f5b2")
+			(uuid "fba53632-3e36-4978-b6cf-95b0e5f7f5b3")
 		)
 		(pin "5"
-			(uuid "b0fbba82-8d9e-4589-8be9-895059f27c3c")
+			(uuid "b0fbba82-8d9e-4589-8be9-895059f27c3d")
 		)
 		(pin "1"
-			(uuid "0f0417fc-4e20-4e43-a859-9057a0cd3aeb")
+			(uuid "0f0417fc-4e20-4e43-a859-9057a0cd3aec")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -6924,7 +6924,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 239.522 64.77 90)
 			(hide yes)
 			(show_name no)
@@ -6969,10 +6969,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b0")
+			(uuid "73b6580e-4785-4bf4-bc4d-c432bb1c22b4")
 		)
 		(pin "2"
-			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c54")
+			(uuid "6e376f0b-fc19-45a5-836a-06c4a54b9c58")
 		)
 		(instances
 			(project "MCU Datalogger with built-in EEPROM and clock"
@@ -7017,7 +7017,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "MountingHole:MountingHole_2.1mm"
 			(at 234.95 152.4 0)
 			(hide yes)
 			(show_name no)
@@ -7091,7 +7091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ATMEGA328P-AU:QFP80P900X900X120-32N"
+		(property "Footprint" "Footprints:QFP80P900X900X120-32N"
 			(at 210.82 66.04 0)
 			(hide yes)
 			(show_name no)
