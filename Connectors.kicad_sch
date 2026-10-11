@@ -1068,7 +1068,7 @@
 	)
 	(hierarchical_label "RESET"
 		(shape passive)
-		(at 123.19 87.63 180)
+		(at 124.46 87.63 180)
 		(effects
 			(font
 				(size 1.27 1.27)

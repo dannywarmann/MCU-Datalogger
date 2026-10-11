@@ -279,6 +279,16 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "PWR",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "tuning_profile": "",
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -286,7 +296,16 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "PWR",
+        "pattern": "/*VCC"
+      },
+      {
+        "netclass": "PWR",
+        "pattern": "/*GND"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -416,7 +435,7 @@
         "uuid": "125220dd-a7f0-4d92-96db-460c2921a83f"
       }
     ],
-    "used_designators": "U1-4,Y1-2,J1-4,R1-7,C1-6,BT1,#PWR1-10,D1-3,H1-5",
+    "used_designators": "U1-4,Y1-2,J1-4,#FLG1-2,R1-7,C1-6,BT1,#PWR1-10,D1-3,H1-5",
     "variants": []
   },
   "sheets": [
