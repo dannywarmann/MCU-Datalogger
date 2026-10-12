@@ -54,7 +54,7 @@
           "border_hatch_pitch": 0.5,
           "corner_radius": 0.0,
           "corner_smoothing": 0,
-          "fill_mode": 1,
+          "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
           "hatch_smoothing_level": 0,
@@ -63,7 +63,7 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 2,
+          "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -240,7 +240,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": "Version 1"
+      "sch_revision": ""
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -466,7 +466,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -483,6 +483,7 @@
       "wire_dangling": "error"
     }
   },
+  "legacy": [],
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
@@ -513,30 +514,19 @@
         "wire_width": 6
       },
       {
-        "bus_width": 12,
-<<<<<<< HEAD
-        "line_style": 0,
-=======
         "clearance": 0.25,
-        "diff_pair_gap": 0.2,
-        "diff_pair_width": 0.1,
-        "line_style": 0,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
         "microvia_diameter": 0.3,
-        "microvia_drill": 0.3,
->>>>>>> 2layer
+        "microvia_drill": 0.1,
         "name": "PWR",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "priority": 0,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
-<<<<<<< HEAD
-        "tuning_profile": "",
-=======
         "track_width": 0.35,
-        "tuning_profile": "0.25 mm",
+        "tuning_profile": "",
         "via_diameter": 0.8,
-        "via_drill": 0.4,
->>>>>>> 2layer
-        "wire_width": 6
+        "via_drill": 0.3
       }
     ],
     "meta": {
@@ -657,14 +647,14 @@
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
-      "label_size_ratio": 0.375,
+      "label_size_ratio": 0.25,
       "operating_point_overlay_i_precision": 3,
       "operating_point_overlay_i_range": "~A",
       "operating_point_overlay_v_precision": 3,
       "operating_point_overlay_v_range": "~V",
       "overbar_offset_ratio": 1.23,
-      "pin_symbol_size": 25.0,
-      "text_offset_ratio": 0.15
+      "pin_symbol_size": 0.0,
+      "text_offset_ratio": 0.08
     },
     "legacy_lib_dir": "",
     "legacy_lib_list": [],
@@ -680,25 +670,14 @@
       {
         "filename": "MCU Datalogger with built-in EEPROM and clock.kicad_sch",
         "name": "MCU Datalogger with built-in EEPROM and clock",
-        "uuid": "125220dd-a7f0-4d92-96db-460c2921a83f"
+        "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
-    "used_designators": "U1-4,Y1-2,J1-4,#FLG1-2,R1-7,C1-6,BT1,#PWR1-10,D1-3,H1-5",
+    "used_designators": "",
     "variants": []
   },
-  "sheets": [
-    [
-      "125220dd-a7f0-4d92-96db-460c2921a83f",
-      "MCU Datalogger with built-in EEPROM and clock"
-    ],
-    [
-      "d5d471c7-cf4a-4d0b-a7af-b1c39b3beb8d",
-      "Connectors"
-    ]
-  ],
-  "text_variables": {
-    "project_name": "MCU Datalogger with clock"
-  },
+  "sheets": [],
+  "text_variables": {},
   "tuning_profiles": {
     "meta": {
       "version": 0
